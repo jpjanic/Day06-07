@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    width: 1024px;
+  }
+  
+  .item-container{
+    width: 320px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+
+  h1 {
+    text-align: center;
+    color:crimson;
+    font-size: 1.5em;
+  }
+
+  .title {
+    color: cornflowerblue;
+    font-size: 1em;
+  }
+
+  .description {
+    text-align: justify;
+  }
